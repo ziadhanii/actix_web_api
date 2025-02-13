@@ -107,10 +107,3 @@ To contribute:
 2. **Create a new branch** for your changes.
 3. **Submit a pull request**.
 
----
-
-## 📞 Contact
-- 📧 **Email:** `your.email@example.com`
-- 🔗 **GitHub:** [YourGitHub](https://github.com/yourusername)
-```
-
