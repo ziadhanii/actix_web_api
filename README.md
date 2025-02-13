@@ -1,4 +1,3 @@
-```md
 # 🚀 Actix Web CRUD API with Diesel
 
 A simple **RESTful API** built with **Rust**, **Actix-Web**, **Diesel**, and **SQLite** to perform CRUD operations on users.
@@ -107,4 +106,11 @@ To contribute:
 1. **Fork** the project.
 2. **Create a new branch** for your changes.
 3. **Submit a pull request**.
+
+---
+
+## 📞 Contact
+- 📧 **Email:** `your.email@example.com`
+- 🔗 **GitHub:** [YourGitHub](https://github.com/yourusername)
+```
 
